@@ -14,7 +14,7 @@ Backend được xây dựng bằng `Node.js` + `Express`. Hiện tại nó sử
 1. Mở Terminal (Command Prompt hoặc PowerShell).
 2. Di chuyển vào thư mục backend:
    ```bash
-   cd g:\my_code\chamcong\backend
+   cd d:\dnuer\conngheblockchain\chamcong_blockchain\backend
    ```
 3. Cài đặt các thư viện cần thiết:
    ```bash
@@ -35,7 +35,7 @@ Frontend được xây dựng bằng `React.js` (Vite) với thiết kế hiện
 1. Mở một cửa sổ Terminal **mới** (Hãy giữ Terminal của Backend chạy nền).
 2. Di chuyển vào thư mục frontend:
    ```bash
-   cd g:\my_code\chamcong\frontend
+   cd d:\dnuer\conngheblockchain\chamcong_blockchain\frontend
    ```
 3. Cài đặt các thư viện cần thiết:
    ```bash

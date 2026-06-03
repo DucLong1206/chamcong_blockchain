@@ -1,0 +1,32 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "role": "admin",
+    "fullName": "Quản Trị Viên"
+  },
+  {
+    "username": "NV001",
+    "password": "123",
+    "role": "user",
+    "fullName": "Nguyễn Văn A"
+  },
+  {
+    "username": "NV002",
+    "password": "123",
+    "role": "user",
+    "fullName": "Trần Thị B"
+  },
+  {
+    "username": "NV003",
+    "password": "123",
+    "role": "user",
+    "fullName": "Nguyễn Thị C"
+  },
+  {
+    "username": "NV004",
+    "password": "123",
+    "role": "user",
+    "fullName": "Lê Văn D"
+  }
+]
