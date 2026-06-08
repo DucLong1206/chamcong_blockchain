@@ -282,18 +282,10 @@ Check-in ──→ Check-out ──→ Recorded
 
 ---
 
-## 📞 Liên hệ & Support
-
-- 📧 Email: [Your Email]
-- 💬 GitHub Issues: [Link tới Issues]
-- 🌐 Website: [Your Website]
-
----
 
 ## 📄 Giấy phép
 
 Dự án được thực hiện phục vụ mục đích học thuật tại **Trường Đại học Đại Nam**.
 
-Được phát triển với ❤️ bằng **Node.js + React + Blockchain Ethereum**
 
----
+
