@@ -15,7 +15,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import axios from 'axios';
 
 // Cấu hình API URL - Thay bằng IP máy tính của bạn
-const API_BASE_URL = 'http://192.168.0.125:5000/api';
+const API_BASE_URL = 'http://172.16.68.41:5000/api';
 
 const App = () => {
   const [user, setUser] = useState(null);
